@@ -9,7 +9,12 @@ I wrote this python script to provide more customizeable reading access to the r
 
 This project will be stop updating as I hit the 79!
 
-currently 50, lol
+<!--I am at 50 now lol -- 19 Oct 2019
+-->
+
+[SST sample](https://drive.google.com/file/d/1XbvgjxDR0t1_FmYk1h0kBaSbGl7n2qEq/view?usp=sharing "SST sample")
+[FIB sample](https://drive.google.com/file/d/1hrVhjw9jmyWFp2IXkQdw67Ql-qDpFlTF/view?usp=sharing "FIB sample")
+[WFIB sample](https://drive.google.com/file/d/1oUe1JORjOVbyeOKFNmRHnS24fccE0dyg/view?usp=sharing "WFIB sample")
 
 ---
 
