@@ -13,8 +13,13 @@ currently 50, lol
 
 ---
 ### Update plan:
-1. adjust font
+1. adjust font 
 2. use setting file instead of hard coding
 3. use thread to call every part
 4. detect fault instead of stop writing to file
 
+### 20 Oct 2019
+1. cool font in WFIB and FIB now
+2. now with configure file
+3. thread down
+4. fault can be detect and log, and retry the api call
